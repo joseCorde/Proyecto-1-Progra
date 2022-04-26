@@ -3,6 +3,6 @@
 
 
 
-Integrantes
+Integrantes:
 Jose Armando Cordero Miranda 
 Yindra Pérez 
